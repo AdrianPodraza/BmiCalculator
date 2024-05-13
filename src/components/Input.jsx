@@ -40,7 +40,7 @@ function Input({ bmi, setBmi }) {
   }, [weight, height, setBmi]);
 
   return (
-    <div className="rounded-xl flex flex-col gap-7 bg-white p-7 shadow ">
+    <div className="rounded-xl flex flex-col gap-7 bg-white p-7 shadow xl:w-1/2 xl:-mr-[250px] ">
       <h2 className="text-2xl font-semibold">Enter your details below</h2>
       <div className="flex flex-col gap-7">
         <form className="flex w-full">

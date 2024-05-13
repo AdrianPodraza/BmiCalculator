@@ -1,7 +1,7 @@
 function Description() {
   return (
-    <div className="flex flex-col gap-7 ">
-      <h1 className="text-center text-5xl text-secondary font-semibold p-5 xl:text-left xl:p-0 xl:mt-16 xl:text-5xl xl:font-bold xl:w-1/2 ">
+    <div className="flex flex-col gap-7 xl:w-1/2 ">
+      <h1 className="text-center text-5xl text-secondary font-semibold p-5 xl:text-left xl:p-0 xl:mt-16 xl:text-5xl xl:font-bold xl:w-3/4 ">
         Body Mass Index Calculator
       </h1>
       <p className="text-center text-gray xl:text-left xl:text-xl xl:w-3/4 ">
