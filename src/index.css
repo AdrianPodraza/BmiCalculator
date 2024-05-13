@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.shadow {
+  -webkit-box-shadow: 14px 15px 24px -15px rgba(66, 68, 90, 1);
+  -moz-box-shadow: 14px 15px 24px -15px rgba(66, 68, 90, 1);
+  box-shadow: 14px 15px 24px -15px rgba(66, 68, 90, 1);
+}
+body {
+  overflow-x: hidden;
+}
